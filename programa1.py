@@ -15,3 +15,8 @@ else:
     print("Si no paga!!")
     print("Le matamos al perrito")
     print("Le matamos al gatito")
+    print("Ke pasa")
+    print("La que te traspasa")
+    print("Y a tu hermana la embarasa")
+    print("K fai con tirar algo a las brasas")
+    
